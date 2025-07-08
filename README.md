@@ -13,5 +13,5 @@
 🌍 Based in Botswana | Open to remote work and client collaborations
 
 📫 Reach me:
-- Portfolio: [https://yourdomain.dev](https://anvil.co.bw/)
-- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/onkarabile-ramosai-b36756253/)
+- Portfolio: [https://anvil.co.bw/](https://anvil.co.bw/)
+- LinkedIn: [MyLinkedIn](https://www.linkedin.com/in/onkarabile-ramosai-b36756253/)
